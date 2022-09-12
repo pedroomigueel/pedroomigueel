@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pedroomigueel
+- 👀 I’m interested in developing software
+- 🌱 I’m currently learning C_Sharp and python
+- 📫 How to reach me: @pedroomigueel
